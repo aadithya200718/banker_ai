@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Face Verification Assistant 🏦
 
 A hackathon-ready prototype for bank officers to verify customer identity using live face capture and ID photo comparison.
@@ -77,3 +78,6 @@ d:\banker assistant\
 2. **Explainability**: Returns human-readable reasons ("High match, but glasses detected").
 3. **Audit Trail**: Logs every verification attempt to SQLite for compliance.
 4. **Zero-Config**: Works out of the box with `pip install` and `python run`.
+=======
+# banker_ai
+>>>>>>> 1d84a60846f15cc91747b85b79d9d950bb7a42cf
