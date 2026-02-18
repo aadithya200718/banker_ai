@@ -1,0 +1,14 @@
+# Face Verification System — Hackathon Requirements
+# Minimal dependencies for fast setup
+
+fastapi
+uvicorn[standard]
+python-multipart
+deepface
+tf-keras
+opencv-python
+mediapipe
+numpy
+scipy
+Pillow
+retinaface

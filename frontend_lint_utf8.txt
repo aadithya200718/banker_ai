@@ -1,0 +1,13 @@
+﻿
+> frontend-react@0.0.0 lint
+> eslint .
+
+
+D:\banker assistant\frontend-react\src\components\VerificationResults.jsx
+  8:11  error  'isReject' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\banker assistant\frontend-react\src\hooks\useAuth.js
+  1:20  error  'useEffect' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+Γ£û 2 problems (2 errors, 0 warnings)
+
